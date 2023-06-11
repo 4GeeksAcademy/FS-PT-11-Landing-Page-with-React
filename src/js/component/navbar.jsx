@@ -8,7 +8,7 @@ export const Navbar = () => {
           Start Bootstrap
         </a>
         <button
-          className="navbar-toggler bg-secondary"
+          className="navbar-toggler bg-light opacity-50"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarTogglerDemo01"

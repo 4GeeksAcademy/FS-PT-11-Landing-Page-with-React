@@ -3,9 +3,9 @@ import React from "react";
 export const Card = () => {
   return (
     <div className="container">
-      <div className="row d-flex flex-lg-row flex-sm-column justify-content-center">
+      <div className="row d-flex justify-content-center">
         <div
-          className="card text-center m-3 p-0 col-sm-10 col-lg-2"
+          className="card text-center m-2 mt-5 p-0 col-lg"
           style={{ width: "17rem" }}
         >
           <img
@@ -25,7 +25,7 @@ export const Card = () => {
           </div>
         </div>
         <div
-          className="card text-center m-3 p-0 col-sm-10 col-lg-2"
+          className="card text-center m-2 mt-5 p-0 col-lg"
           style={{ width: "17rem" }}
         >
           <img
@@ -45,7 +45,7 @@ export const Card = () => {
           </div>
         </div>
         <div
-          className="card text-center m-3 p-0 col-sm-10 col-lg-2"
+          className="card text-center m-2 mt-5 p-0 col-lg"
           style={{ width: "17rem" }}
         >
           <img
@@ -65,7 +65,7 @@ export const Card = () => {
           </div>
         </div>
         <div
-          className="card text-center m-3 p-0 col-sm-10 col-lg-2"
+          className="card text-center m-2 mt-5 p-0 col-lg"
           style={{ width: "17rem" }}
         >
           <img
